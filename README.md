@@ -8,3 +8,4 @@ Requirments
     rapidfuzz 
     jellyfish
     
+copyright Aleksi Penttilä
